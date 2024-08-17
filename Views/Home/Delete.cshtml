@@ -1,0 +1,43 @@
+﻿@model ProyectoProgramacionAvanzada.Models.Product
+
+
+<h1>Eliminar Productos</h1>
+
+<h3> Está seguro que desea eliminar este producto? </h3>
+
+<div>
+    <h4>Producto</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            id
+        </dt>
+        <dd class="col-sm-10">
+            @Model.id
+        </dd>
+        <dt class="col-sm-2">
+            name
+        </dt>
+        <dd class="col-sm-10">
+            @Model.name
+        <dt class="col-sm-2">
+            price
+        </dt>
+        <dd class="col-sm-10">
+                @Model.price
+    </dl>
+    <dt class="col-sm-2">
+        details
+    </dt>
+    <dd class="col-sm-10">
+        @Model.details
+       </dl>
+</div>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="id" />
+    <id class="form-group">
+        <input type="submit" value="Eliminar" class="btn btn-danger" />
+        <a asp-action="Index">Volver a la lista</a>
+    </id>
+</form>

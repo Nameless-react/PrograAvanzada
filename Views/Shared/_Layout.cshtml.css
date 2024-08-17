@@ -1,0 +1,167 @@
+﻿/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+/*
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a {
+  color: #0077cc;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+*/
+h2, h1, a {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+header {
+    background-color: rgb(27, 38, 59);
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+    header a {
+        text-decoration: none;
+        color: aliceblue;
+    }
+
+a:hover {
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.logo {
+    position: inherit;
+    margin-top: 15px;
+    margin-left: 5px;
+    align-items: left;
+}
+
+
+.nav_menu {
+    list-style: none;
+}
+
+    .nav_menu li {
+        display: inline-block;
+        padding: 20px;
+    }
+
+        .nav_menu li a {
+            transition: all 0.3s ease 0s;
+        }
+
+            .nav_menu li a:hover {
+                color: #808080;
+            }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(27, 38, 59);
+    width: 100%;
+}
+
+.footer-row {
+    display: flex;
+    flex-wrap: flex;
+}
+
+.footer-links {
+    width: 25%;
+    padding: 0 15px;
+}
+
+
+
+    .footer-links h4 {
+        font: 20px;
+        margin-bottom: 25px;
+        color: #ffffff;
+        display: inline-block;
+        padding: 10px;
+        display: inline-block;
+        font-weight: 500;
+    }
+
+    .footer-links ul li {
+        color: #ffffff;
+    }
+    .footer-links ul li a {
+        font-size: 18px;
+        text-decoration: none;
+        color: #ffffff;
+        margin-bottom: 15PX;
+        transition: all .3s ease;
+    }
+
+        .footer-links ul li a:hover {
+            color: #808080;
+            padding-left: 6px;
+        }
+
+.social-links a {
+    display: inline-block;
+    min-height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all .5s ease;
+}
+
+    .social-links a:hover {
+        color: rgb(0,0,0);
+    }

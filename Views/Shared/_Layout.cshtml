@@ -1,0 +1,94 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ProyectoProgramacionAvanzada</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ProyectoProgramacionAvanzada.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
+</head>
+<body>
+    <header>
+        <nav>
+            <ul class="nav_menu">
+                <li>
+                    <h1>Tech</h1>
+                </li>
+                <li><a href="@Url.Action("Index")">Inicio</a></l>
+                <li><a href="#">Nuestros productos</a></li>
+                <li><a href="#">Acerca de nosotros</a></li>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li><a href="">@User.Identity.Name</a></li>
+                    <li><a href="@Url.Action("Logout", "Account")">Cerrar Sesión</a></li>
+                }
+                else
+                {
+                    <li><a href="@Url.Action("Login", "Account")">Iniciar Sesión</a></li>
+                    <li><a href="@Url.Action("Register", "Account")">Registrarse</a></li>
+                }
+            </ul>
+        </nav>
+        
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-row">
+                <div class="footer-links">
+                    <h4>Compañia</h4>
+                    <ul>
+                        <li><a href="#">Nosotros</a></li>
+                        <li><a href="#">Nuestros servicios</a></li>
+                        <li><a href="#">Politica de privacidad</a></li>
+                        <li><a href="#">Envia tus opiniones</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Ayudanos a mejorar!</h4>
+                    <ul>
+                        <li><a href="#">Dudas</a></li>
+                        <li><a href="#">Recomendaciones</a></li>
+                        <li><a href="#">Politica de privacidad</a></li>
+                        <li><a href="#">Envia tus opiniones</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Nuestros productos</h4>
+                    <ul>
+                        <li><a href="#">Componentes</a></li>
+                        <li><a href="#">Perifericos</a></li>
+                        <li><a href="#">Accesorios</a></li>
+                        <li><a href="#">Combos de PCs</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Nuestras redes</h4>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

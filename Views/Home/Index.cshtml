@@ -1,0 +1,31 @@
+﻿@model List<Product>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+</head>
+<table>
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>name</th>
+            <th>price</th>
+            <th>details</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Product in Model)
+        {
+            <tr>
+                <td >@Product.id</td>
+                <td>@Product.name</td>
+                <td>@Product.price</td>
+                <td>@Product.details</td>
+                <td><button class="btn btn-warning"><a style="text-decoration: none; color: white;" href="@Url.Action("Edit", new {id = Product.id})">Editar</a></button></td>
+                <td><button class="btn btn-primary"><a style="text-decoration: none; color: white;" href="@Url.Action("Details", new {id = Product.id})">Detalle</a></button></td>
+                <td><button class="btn btn-danger"><a  style="text-decoration: none; color: white;" href="@Url.Action("Delete", new {id = Product.id})">Borrar</a></button></td>
+            </tr>
+        }
+    </tbody>
+    <button class="btn btn-success"<a style="text-decoration: none; color: white; margin: 10px" href="@Url.Action("Create")">Create</a></button>
+</table>

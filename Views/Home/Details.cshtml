@@ -1,0 +1,38 @@
+﻿@model ProyectoProgramacionAvanzada.Models.Product
+
+<h1>Detalles de los Productos</h1>
+
+<div>
+    <h4>Producto</h4>
+    <hr />
+    <dl class="row">
+        <dt>
+            id
+        </dt>
+        <dd>
+            @Model.id
+        </dd>
+        <dt>
+            name
+        </dt>
+        <dd>
+            @Model.name
+        </dd>
+        <dt>
+            price
+        </dt>
+        <dd>
+            @Model.price
+        </dd>
+        <dt>
+            details
+        </dt>
+        <dd>
+            @Model.details
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.id">Editar</a>
+    <a asp-action="Index">Volver a la lista</a>
+</div>

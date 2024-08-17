@@ -1,0 +1,413 @@
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\appsettings.json
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.staticwebassets.runtime.json
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.exe
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.deps.json
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.runtimeconfig.json
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.pdb
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Humanizer.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.csproj.AssemblyReference.cache
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.AssemblyInfoInputs.cache
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.AssemblyInfo.cs
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.RazorAssemblyInfo.cache
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.RazorAssemblyInfo.cs
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.sourcelink.json
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoProgramacionAvanzada.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoProgramacionAvanzada.props
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoProgramacionAvanzada.props
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoProgramacionAvanzada.props
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\scopedcss\bundle\ProyectoProgramacionAvanzada.styles.css
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoProgramacionAvanzada.bundle.scp.css
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\Proyecto.29CED731.Up2Date
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\refint\ProyectoProgramacionAvanzada.dll
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.pdb
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.genruntimeconfig.cache
+C:\Users\enriq\Videos\ProyectoProgramacionAvanzada\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ref\ProyectoProgramacionAvanzada.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\appsettings.json
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.staticwebassets.runtime.json
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.exe
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.deps.json
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.runtimeconfig.json
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.pdb
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.csproj.AssemblyReference.cache
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.AssemblyInfoInputs.cache
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.AssemblyInfo.cs
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.RazorAssemblyInfo.cache
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.RazorAssemblyInfo.cs
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoProgramacionAvanzada.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoProgramacionAvanzada.props
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoProgramacionAvanzada.props
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoProgramacionAvanzada.props
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\scopedcss\bundle\ProyectoProgramacionAvanzada.styles.css
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoProgramacionAvanzada.bundle.scp.css
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\Proyecto.29CED731.Up2Date
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\refint\ProyectoProgramacionAvanzada.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.pdb
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.genruntimeconfig.cache
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ref\ProyectoProgramacionAvanzada.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Daniel Lopez\OneDrive - Universidad Fidélitas\Escritorio\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\appsettings.json
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.staticwebassets.runtime.json
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.exe
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.deps.json
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.runtimeconfig.json
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ProyectoProgramacionAvanzada.pdb
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Humanizer.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.csproj.AssemblyReference.cache
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.AssemblyInfoInputs.cache
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.AssemblyInfo.cs
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.csproj.CoreCompileInputs.cache
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.RazorAssemblyInfo.cache
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.RazorAssemblyInfo.cs
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoProgramacionAvanzada.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoProgramacionAvanzada.props
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoProgramacionAvanzada.props
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoProgramacionAvanzada.props
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\scopedcss\bundle\ProyectoProgramacionAvanzada.styles.css
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoProgramacionAvanzada.bundle.scp.css
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\Proyecto.29CED731.Up2Date
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\refint\ProyectoProgramacionAvanzada.dll
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.pdb
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ProyectoProgramacionAvanzada.genruntimeconfig.cache
+C:\Users\vroja\Downloads\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada-main\ProyectoProgramacionAvanzada\obj\Debug\net8.0\ref\ProyectoProgramacionAvanzada.dll
