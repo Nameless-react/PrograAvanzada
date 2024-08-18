@@ -6,11 +6,13 @@ namespace ProyectoProgramacionAvanzada.Models
     {
         [Key]
 
-        public int id { get; set; }
-        public string name { get; set; }
-        public decimal price { get; set; }
-        public string details { get; set; }
-       
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public decimal Price { get; set; }
+        public string Details { get; set; }
+        //public List<Product_Image> Images { get; set; }
+
+
     }
 }
 

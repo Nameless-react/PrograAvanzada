@@ -1,22 +1,101 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+}
+
+
+main {
+    margin-bottom: 20rem;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.footer-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-links {
+    flex: 1;
+    margin: 10px;
+}
+
+    .footer-links h4 {
+        font-size: 1.25rem;
+        margin-bottom: 15px;
+    }
+
+    .footer-links ul {
+        list-style: none;
+        padding: 0;
+    }
+
+        .footer-links ul li {
+            margin-bottom: 10px;
+        }
+
+    .footer-links a {
+        color: #212529;
+        text-decoration: none;
+    }
+
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
+
+.social-links a {
+    font-size: 1.5rem;
+    margin-right: 10px;
+    color: #212529;
+}
+
+    .social-links a:hover {
+        color: #007bff;
+    }
+
+.margin-bottom {
+    margin-bottom: 500px;
+}
+
+.btn-group {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#cart-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#cart-items {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+#checkout-section {
+    text-align: right;
 }

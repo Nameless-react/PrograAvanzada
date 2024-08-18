@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada.csproj": {}
+    "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\ProyectoProgramacionAvanzada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada.csproj": {
+    "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\ProyectoProgramacionAvanzada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada.csproj",
+        "projectUniqueName": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\ProyectoProgramacionAvanzada.csproj",
         "projectName": "ProyectoProgramacionAvanzada",
-        "projectPath": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada.csproj",
+        "projectPath": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\ProyectoProgramacionAvanzada.csproj",
         "packagesPath": "C:\\Users\\vroja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\obj\\",
+        "outputPath": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vroja\\AppData\\Roaming\\NuGet\\NuGet.Config",

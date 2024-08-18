@@ -27,6 +27,10 @@ namespace ProyectoProgramacionAvanzada.Models
         public string Phone { get; set; }
 
         [Required]
+        [StringLength(15)]
+        public string Identification { get; set; }
+
+        [Required]
         [StringLength(255)]
         public string Role { get; set; }
     }

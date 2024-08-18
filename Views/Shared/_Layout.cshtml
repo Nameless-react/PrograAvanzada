@@ -24,6 +24,7 @@
                 @if (User.Identity.IsAuthenticated)
                 {
                     <li><a href="">@User.Identity.Name</a></li>
+                    <li><a href="@Url.Action("Cart", "Home")">Carrito</a></li>
                     <li><a href="@Url.Action("Logout", "Account")">Cerrar Sesión</a></li>
                 }
                 else
@@ -89,6 +90,8 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/cart.js"></script>
+
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

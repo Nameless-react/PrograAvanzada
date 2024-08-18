@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IeA4h/IcFAc=",
+  "dgSpecHash": "NnSwFv+PTmk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada.csproj",
+  "projectFilePath": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\ProyectoProgramacionAvanzada.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vroja\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\vroja\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

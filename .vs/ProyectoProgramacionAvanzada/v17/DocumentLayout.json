@@ -1,46 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\",
+  "WorkspaceRootPath": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\downloads\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada-main\\proyectoprogramacionavanzada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\models\\product_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:models\\product_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\vroja\\source\\repos\\prograavanzada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,124 +102,208 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T02:11:36.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T18:05:55.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T18:05:36.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-06T03:42:13.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbcontext.cs",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Data\\AppDbcontext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbcontext.cs",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Data\\AppDbcontext.cs",
-              "RelativeToolTip": "Data\\AppDbcontext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAABtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T22:35:51.007Z"
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T02:11:36.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAwDoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T22:26:56.384Z"
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T21:52:49.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "Product_Image.cs",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Models\\Product_Image.cs",
+              "RelativeDocumentMoniker": "Models\\Product_Image.cs",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Models\\Product_Image.cs",
+              "RelativeToolTip": "Models\\Product_Image.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:21:55.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:03:22.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAAwJ0AAAAxAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAQwJAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T22:22:10.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACGAAAA",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T22:18:42.702Z"
+              "WhenOpened": "2024-08-05T22:26:56.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Home\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T21:17:24.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T21:16:42.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAD4vwoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T18:05:55.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T18:05:36.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-18T00:53:08.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Data\\AppDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbcontext.cs",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Data\\AppDbcontext.cs",
+              "RelativeToolTip": "Data\\AppDbcontext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:35:51.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T21:55:19.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T21:36:33.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T22:13:58.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\vroja\\Downloads\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada-main\\ProyectoProgramacionAvanzada\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAcAAAAVAAAA",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vroja\\source\\repos\\PrograAvanzada\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAnwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T22:03:22.345Z"
+              "WhenOpened": "2024-08-05T22:18:42.702Z"
             }
           ]
         },

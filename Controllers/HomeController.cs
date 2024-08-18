@@ -31,7 +31,7 @@ namespace ProyectoProgramacionAvanzada.Controllers
                 return NotFound();
             }
 
-            var Product = await _context.Products.FirstOrDefaultAsync(m => m.id == id);
+            var Product = await _context.Products.FirstOrDefaultAsync(m => m.Id == id);
 
             if (Product == null)
             {
@@ -48,16 +48,16 @@ namespace ProyectoProgramacionAvanzada.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Product Product)
+        public async Task<IActionResult> Create(Product product)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(Product);
+                _context.Add(product);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
 
-            return View(Product);
+            return View(product);
         }
 
         public async Task<IActionResult> Edit(int? id)
@@ -67,34 +67,29 @@ namespace ProyectoProgramacionAvanzada.Controllers
                 return NotFound();
             }
 
-            var Product = await _context.Products.FindAsync(id);
-            if (Product == null)
+            var product = await _context.Products.FindAsync(id);
+            if (product == null)
             {
                 return NotFound();
             }
 
-            return View(Product);
+            return View(product);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, Product Product)
+        public async Task<IActionResult> Edit(Product product)
         {
-            if (id != Product.id)
-            {
-                return NotFound();
-            }
-
             if (ModelState.IsValid)
             {
                 try
                 {
-                    _context.Update(Product);
+                    _context.Update(product);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProductExists(Product.id))
+                    if (!ProductExists(product.Id))
                     {
                         return NotFound();
                     }
@@ -106,7 +101,7 @@ namespace ProyectoProgramacionAvanzada.Controllers
 
                 return RedirectToAction(nameof(Index));
             }
-            return View(Product);
+            return View(product);
         }
 
         public async Task<IActionResult> Delete(int? id)
@@ -116,7 +111,7 @@ namespace ProyectoProgramacionAvanzada.Controllers
                 return NotFound();
             }
 
-            var Product = await _context.Products.FirstOrDefaultAsync(m => m.id == id);
+            var Product = await _context.Products.FirstOrDefaultAsync(m => m.Id == id);
 
             if (Product == null)
             {
@@ -144,7 +139,12 @@ namespace ProyectoProgramacionAvanzada.Controllers
 
         private bool ProductExists(int id)
         {
-            return _context.Products.Any(e => e.id == id);
+            return _context.Products.Any(e => e.Id == id);
+        }
+
+        public IActionResult Cart()
+        {
+            return View();
         }
 
         [Authorize(Roles = "admin")]
