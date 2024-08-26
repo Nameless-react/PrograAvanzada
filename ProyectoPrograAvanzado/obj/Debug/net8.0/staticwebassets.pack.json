@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProyectoProgramacionAvanzada.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProyectoProgramacionAvanzada.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\js\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\js\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\16c58ef6-e0bd-48c0-98ef-dbc0a4695692_1366_2000.jpeg",
+      "PackagePath": "staticwebassets\\products\\16c58ef6-e0bd-48c0-98ef-dbc0a4695692_1366_2000.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\1e8ecaf3-f6f2-4dcf-9054-c21959ecb530_1366_2000.jpeg",
+      "PackagePath": "staticwebassets\\products\\1e8ecaf3-f6f2-4dcf-9054-c21959ecb530_1366_2000.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\2a020757-2a2a-49af-85c3-6d73e9e92cb9_png-2702691_640.webp",
+      "PackagePath": "staticwebassets\\products\\2a020757-2a2a-49af-85c3-6d73e9e92cb9_png-2702691_640.webp"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\32690ff8-333a-47bd-87bd-40d66f2b78ed_1366_2000.jpeg",
+      "PackagePath": "staticwebassets\\products\\32690ff8-333a-47bd-87bd-40d66f2b78ed_1366_2000.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\439b74b1-4830-461b-925b-10e47246c670_1366_2000.jpeg",
+      "PackagePath": "staticwebassets\\products\\439b74b1-4830-461b-925b-10e47246c670_1366_2000.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\55e81f30-e303-4b57-84e3-61973afe050e_1366_2000.jpeg",
+      "PackagePath": "staticwebassets\\products\\55e81f30-e303-4b57-84e3-61973afe050e_1366_2000.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\de73f7b0-5a8c-47ed-9d7c-fc1bf42d13c5_LogoN.jpg",
+      "PackagePath": "staticwebassets\\products\\de73f7b0-5a8c-47ed-9d7c-fc1bf42d13c5_LogoN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\ec38efd5-cd5b-4835-96a3-d1b3a7defc61_1366_2000.jpeg",
+      "PackagePath": "staticwebassets\\products\\ec38efd5-cd5b-4835-96a3-d1b3a7defc61_1366_2000.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\fd16a979-7b10-4c56-88af-e92c2b36427e_LogoN.jpg",
+      "PackagePath": "staticwebassets\\products\\fd16a979-7b10-4c56-88af-e92c2b36427e_LogoN.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProyectoProgramacionAvanzada.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProyectoProgramacionAvanzada.props",
+      "PackagePath": "build\\ProyectoProgramacionAvanzada.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoProgramacionAvanzada.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoProgramacionAvanzada.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProyectoProgramacionAvanzada.props",
+      "PackagePath": "buildTransitive\\ProyectoProgramacionAvanzada.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

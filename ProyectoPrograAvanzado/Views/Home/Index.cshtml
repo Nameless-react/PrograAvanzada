@@ -1,0 +1,39 @@
+﻿@model List<Product>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+</head>
+
+
+<div class="container mt-4" style="margin-bottom: 300px;">
+    <div class="row">
+        <button class="btn btn-success">
+            <a style="text-decoration: none; color: white; margin: 10px;" href="@Url.Action("Create")">Create</a>
+         </button>
+        @foreach (var product in Model)
+        {
+            var firstImageUrl = product.Images != null && product.Images.Count > 0
+            ? product.Images.First().ImageUrl
+            : "https://i.pinimg.com/originals/9e/e0/ed/9ee0ed3fd1380ccd7ded429b56c1d8b3.jpg";
+
+           
+
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="@firstImageUrl" class="card-img-top" alt="@product.Name">
+                    <div class="card-body">
+                        <h5 class="card-title" id="product-name-@product.Id">@product.Name</h5>
+                        <p class="card-text" id="product-details-@product.Id">@product.Details</p>
+                        <p class="card-text" id="product-price-@product.Id"><strong>Price:</strong> $@product.Price</p>
+                        <div class="text-center btn-group" id="button-group-@product.Id">
+                            <a href="@Url.Action("Details", new { id = product.Id })"
+                               class="btn btn-primary" id="view-details-@product.Id">View Details</a>
+                            <button class="btn btn-warning"><a style="text-decoration: none; color: white;" href="@Url.Action("Edit", new {id = product.Id})">Editar</a></button>
+                            <button class="btn btn-primary" id="add-to-cart-@product.Id">Add to Cart</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
