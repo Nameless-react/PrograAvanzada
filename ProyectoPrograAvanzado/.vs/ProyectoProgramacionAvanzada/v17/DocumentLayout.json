@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\joel3\\source\\repos\\proyectoprograavanzado\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|c:\\users\\joel3\\source\\repos\\proyectoprograavanzado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776A70A6-27F8-4D3D-95E2-247DD6696FD5}|ProyectoProgramacionAvanzada.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-26T05:47:28.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
@@ -82,12 +99,11 @@
               "RelativeToolTip": "Views\\Home\\Edit.cshtml",
               "ViewState": "AgIAADUAAAAAAAAAAAAUwCEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T05:07:06.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T05:07:06.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -95,12 +111,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAD4vxIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T03:46:46.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T03:46:46.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductImageViewModel.cs",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\ViewModel\\ProductImageViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\ProductImageViewModel.cs",
@@ -108,12 +123,11 @@
               "RelativeToolTip": "ViewModel\\ProductImageViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T00:08:17.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T00:08:17.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
@@ -121,12 +135,11 @@
               "RelativeToolTip": "Views\\Home\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T21:52:49.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T21:52:49.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductViewModel.cs",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\ViewModel\\ProductViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\ProductViewModel.cs",
@@ -134,12 +147,11 @@
               "RelativeToolTip": "ViewModel\\ProductViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:12:27.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T02:12:27.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppDbcontext.cs",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\Data\\AppDbcontext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbcontext.cs",
@@ -147,12 +159,11 @@
               "RelativeToolTip": "Data\\AppDbcontext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T22:35:51.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T22:35:51.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "Models\\ProductImage.cs",
@@ -160,12 +171,11 @@
               "RelativeToolTip": "Models\\ProductImage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T21:21:55.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T21:21:55.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -173,12 +183,11 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T22:13:58.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T22:13:58.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
@@ -186,12 +195,11 @@
               "RelativeToolTip": "Views\\Home\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T21:36:33.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T21:36:33.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
