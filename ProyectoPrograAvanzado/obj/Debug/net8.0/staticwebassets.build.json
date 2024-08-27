@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/156h53VkOYl1RTL6v/FaarZHtrhtzEUJppzLriLxhE=",
+  "Hash": "Rp2obE6BNXpTsfKBqKi3hru8AbP0r7kEY5g+qPJmST8=",
   "Source": "ProyectoProgramacionAvanzada",
   "BasePath": "_content/ProyectoProgramacionAvanzada",
   "Mode": "Default",
@@ -1290,6 +1290,25 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\12e44938-1d30-4ee7-9e66-cfd79a2e8339_images.jpg",
+      "SourceId": "ProyectoProgramacionAvanzada",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\",
+      "BasePath": "_content/ProyectoProgramacionAvanzada",
+      "RelativePath": "products/12e44938-1d30-4ee7-9e66-cfd79a2e8339_images.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\12e44938-1d30-4ee7-9e66-cfd79a2e8339_images.jpg"
+    },
+    {
       "Identity": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\16c58ef6-e0bd-48c0-98ef-dbc0a4695692_1366_2000.jpeg",
       "SourceId": "ProyectoProgramacionAvanzada",
       "SourceType": "Discovered",
@@ -1402,25 +1421,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\products\\55e81f30-e303-4b57-84e3-61973afe050e_1366_2000.jpeg"
-    },
-    {
-      "Identity": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\de73f7b0-5a8c-47ed-9d7c-fc1bf42d13c5_LogoN.jpg",
-      "SourceId": "ProyectoProgramacionAvanzada",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\",
-      "BasePath": "_content/ProyectoProgramacionAvanzada",
-      "RelativePath": "products/de73f7b0-5a8c-47ed-9d7c-fc1bf42d13c5_LogoN.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\de73f7b0-5a8c-47ed-9d7c-fc1bf42d13c5_LogoN.jpg"
     },
     {
       "Identity": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\ec38efd5-cd5b-4835-96a3-d1b3a7defc61_1366_2000.jpeg",

@@ -136,10 +136,7 @@ namespace ProyectoProgramacionAvanzada.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(ProductViewModel viewModel, IFormFile newImage)
         {
-            if (!ModelState.IsValid)
-            {
-                return View(viewModel);
-            }
+            
 
             var product = await _context.Products
                 .Include(p => p.Images)
@@ -157,7 +154,7 @@ namespace ProyectoProgramacionAvanzada.Controllers
             if (newImage != null && newImage.Length > 0)
             {
                 var imageFileName = $"{Guid.NewGuid()}_{newImage.FileName}";
-                var imagePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", imageFileName);
+                var imagePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/products", imageFileName);
 
                 using (var stream = new FileStream(imagePath, FileMode.Create))
                 {
@@ -166,7 +163,7 @@ namespace ProyectoProgramacionAvanzada.Controllers
 
                 var newProductImage = new ProductImage
                 {
-                    ImageUrl = $"/images/{imageFileName}",
+                    ImageUrl = $"/products/{imageFileName}",
                     Name = newImage.FileName,
                     ProductId = product.Id
                 };
@@ -186,14 +183,14 @@ namespace ProyectoProgramacionAvanzada.Controllers
                 return NotFound();
             }
 
-            var Product = await _context.Products.FirstOrDefaultAsync(m => m.Id == id);
+            var product = await _context.Products.FirstOrDefaultAsync(m => m.Id == id);
 
-            if (Product == null)
+            if (product == null)
             {
                 return NotFound();
             }
 
-            return View(Product);
+            return View(product);
         }
 
         [HttpPost, ActionName("Delete")]
@@ -201,21 +198,17 @@ namespace ProyectoProgramacionAvanzada.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
 
-            var Product_Image = await _context.ProductImages.FindAsync(id);
-            _context.ProductImages.Remove(Product_Image);
+            var productImage = await _context.ProductImages.FindAsync(id);
+            _context.ProductImages.Remove(productImage);
 
 
 
-            var Product = await _context.Products.FindAsync(id);
-            _context.Products.Remove(Product);
+            var product = await _context.Products.FindAsync(id);
+            _context.Products.Remove(product);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ProductExists(int id)
-        {
-            return _context.Products.Any(e => e.Id == id);
-        }
 
         public IActionResult Cart()
         {

@@ -265,6 +265,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\12e44938-1d30-4ee7-9e66-cfd79a2e8339_images.jpg",
+      "PackagePath": "staticwebassets\\products\\12e44938-1d30-4ee7-9e66-cfd79a2e8339_images.jpg"
+    },
+    {
       "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\16c58ef6-e0bd-48c0-98ef-dbc0a4695692_1366_2000.jpeg",
       "PackagePath": "staticwebassets\\products\\16c58ef6-e0bd-48c0-98ef-dbc0a4695692_1366_2000.jpeg"
     },
@@ -287,10 +291,6 @@
     {
       "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\55e81f30-e303-4b57-84e3-61973afe050e_1366_2000.jpeg",
       "PackagePath": "staticwebassets\\products\\55e81f30-e303-4b57-84e3-61973afe050e_1366_2000.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\de73f7b0-5a8c-47ed-9d7c-fc1bf42d13c5_LogoN.jpg",
-      "PackagePath": "staticwebassets\\products\\de73f7b0-5a8c-47ed-9d7c-fc1bf42d13c5_LogoN.jpg"
     },
     {
       "Id": "C:\\Users\\joel3\\source\\repos\\ProyectoPrograAvanzado\\wwwroot\\products\\ec38efd5-cd5b-4835-96a3-d1b3a7defc61_1366_2000.jpeg",
